@@ -1,0 +1,117 @@
+/* Seleciona todos elementos */
+* {
+  /* Para não interferir na largura dos elementos */
+  box-sizing: border-box;
+  /* Tira a margem de tudo */
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(300deg, #ff0000 0%, #690bff 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background-color: #000000;
+  border-radius: 15px;
+  box-shadow: 0 2px 5px #a0a0a0;
+  width: 350px;
+  max-width: 100%;
+}
+
+.header {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  background-color: #2600ff;
+  padding: 20px;
+}
+
+.header h2 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.form {
+  padding: 20px;
+}
+
+.form-control {
+  margin-bottom: 5px;
+  padding-bottom: 20px;
+  position: relative;
+}
+
+.form-control label {
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+.form-control input {
+  border: 2px solid #b8b7b7;
+  display: block;
+  border-radius: 10px;
+  font-size: 14px;
+  width: 100%;
+  padding: 5px;
+}
+
+.form-control i {
+  position: absolute;
+  top: 45px;
+  right: 10px;
+  visibility: hidden;
+}
+
+.form-control label {
+  color: #ffffffff;
+}
+
+#asterisk {
+  color: #ff0000;
+}
+
+.form-control small {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  visibility: hidden;
+}
+
+.form button {
+  background-color: #4400ff;
+  border: 2px solid #4400ff;
+  color: #ffffffff;
+  font-size: 15px;
+  width: 100%;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+.form-control.success input {
+  border-color: #00ff22;
+}
+
+.form-control.error input {
+  border-color: #ff0000;
+}
+
+.form-control.success i.fa-circle-check {
+  color: #00ff22;
+  visibility: visible;
+}
+
+.form-control.error i.fa-triangle-exclamation {
+  color: #ff0000;
+  visibility: visible;
+}
+
+.form-control.error small {
+  color: #ff0000;
+  visibility: visible;
+}
