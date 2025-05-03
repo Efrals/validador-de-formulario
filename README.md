@@ -4,7 +4,7 @@ Este projeto é um formulário de criação de conta com validação de campos.
 
 ## 📷 Preview
 
-<img src="assets/images/PreviewCriarConta.gif" alt="Preview Criar Conta" width="600"/>
+<img src="assets/images/PreviewCriarConta.gif" alt="Preview Criar Conta" width="500"/>
 
 ## 🚀 Funcionalidades
 
