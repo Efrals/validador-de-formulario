@@ -1,10 +1,10 @@
-# 📝 Formulário de Criação de Conta
+# 📝 Validador de Formulário
 
-Este projeto é um formulário de criação de conta com validação de campos.
+Este projeto é um validador de campos de formulário para criação de conta.
 
 ## 📷 Preview
 
-<img src="assets/images/PreviewCriarConta.gif" alt="Preview Criar Conta" width="500"/>
+<img src="assets/images/PreviewValidadorDeFormulario.gif" alt="Preview Validador De Formulario" width="500"/>
 
 ## 🚀 Funcionalidades
 
@@ -28,14 +28,14 @@ Este projeto é um formulário de criação de conta com validação de campos.
 
 ## ▶️ Como Usar
 
-Entre no site: [Criar Conta](https://criarconta-efrals.netlify.app/)
+Entre no site: [Validador de Formulário](validador-de-formulario-efrals.netlify.app)
 
 OU
 
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/Efrals/criar-conta.git
+   git clone https://github.com/Efrals/validador-de-formulario.git
    ```
 
 2. Navegue até a pasta do projeto
