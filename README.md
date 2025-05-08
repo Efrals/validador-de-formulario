@@ -28,7 +28,7 @@ Este projeto é um validador de campos de formulário para criação de conta.
 
 ## ▶️ Como Usar
 
-Entre no site: [Validador de Formulário](validador-de-formulario-efrals.netlify.app)
+Entre no site: [Validador de Formulário](https://validador-de-formulario-efrals.netlify.app/)
 
 OU
 
